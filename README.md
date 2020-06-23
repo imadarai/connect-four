@@ -3,7 +3,7 @@ Between January and March 2020, I attended <a href="http://www.spiced-academy.co
 
 A weekend long project to design and develop a connect four game. 
 ## Website 
-<a href="http://connect4.imadara.in/" target="_blank">Connect4.ImadAra.in/</a>
+http://connect4.imadara.in/
 
 ## Tech Stack
  * Javascript
